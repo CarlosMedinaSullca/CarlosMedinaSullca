@@ -20,9 +20,9 @@ I'm Carlos Medina, a full-stack web developer with an associate degree in softwa
 
 ## Projects
 
-- Bolivia Chamber of commerce (JavaScript (ES6+),HTML5, CSS3, Web Accessibility (WCAG). Link to repository https://github.com/CarlosMedinaSullca/wdd231
+- Bolivia Chamber of commerce (JavaScript (ES6+),HTML5, CSS3, Web Accessibility (WCAG)). Link to repository https://github.com/CarlosMedinaSullca/wdd231
 - Sleep-Outside, collaborative project (JavaScript (ES6+),HTML5, CSS3, Vite, Netlify, Agile, Web Accessibility (WCAG)). Link to repository https://github.com/jcbhmphrs733/Sleep-Outside.git
-- "NUTRIPLAN" Health and nutritional app (JavaScript (ES6+),HTML5, CSS3, Vite, Netlify, Web Accessibility (WCAG). Link to repository https://github.com/CarlosMedinaSullca/WDD330FinalProject.git
+- "NUTRIPLAN" Health and nutritional app (JavaScript (ES6+),HTML5, CSS3, Vite, Netlify, Web Accessibility (WCAG)). Link to repository https://github.com/CarlosMedinaSullca/WDD330FinalProject.git
 - CSE Motors (JavaScript (ES6+), HTML5, CSS3, Node.js, Express.js, PostgreSQL, MVC Architecture, Web Accessibility (WCAG), Render). Link to repository https://github.com/CarlosMedinaSullca/WEPAPP340.git
 - REST API for a food planner application (JavaScript (ES6+), Node.js, Express.js, MongoDB, Mongoose, MVC Architecture, Security Best Practices, Render). Link to repository https://github.com/CarlosMedinaSullca/CSE341-Project2
 - REST API for educational institution courses management, collaborative project. (JavaScript (ES6+), Node.js, Express.js, MongoDB, Mongoose, MVC Architecture, Security Best Practices, Render). Link to repository https://github.com/ezgdev/cse341-learning-academy.git
