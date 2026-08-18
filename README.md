@@ -7,8 +7,8 @@ I'm Carlos Medina, a full-stack web developer with an associate degree in softwa
 ## About me
 - I'm currently learning adittional full-stack web technologies like .NET, ASP.NET, and .NET Blazor.
 - I'm working on e-commerce websites development
-- Since early 2024 I have learned and developed front-end, back end, and full-stack projects with many technologies. Check technologies and tools section.
-- My goal is to get hired by an international company for a remote job as a full-stack developer.
+- Since early 2024 I have learned front-end, back end, and full-stack technologies, and worked in multiple projects. Check technologies and tools section.
+- My goals is to be hired for a remote position as a full-stack web develope.
 - How to reach me: carlos.medina.sullca@gmail.com, www.linkedin.com/in/carlos-medina-3a3265303/, +59172968308
 
 ## Technologies and Tools
