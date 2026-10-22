@@ -2,7 +2,7 @@
 
 Hello World!
 
-I'm Carlos Medina, a full-stack web developer with an associate and bachelor degree in software development granted by Brigham Young University. I am interested in full-stack web development, cybersecurity, blockchain and machine learning. Welcome to my GitHub profile!
+I'm Carlos Medina, a full-stack web developer with an associate and bachelor degree in software development granted by Brigham Young University. I am interested in full-stack web development, cybersecurity, blockchain, AI development and machine learning. Welcome to my GitHub profile!
 
 ## About me
 - I'm currently developing the front-end and backend for local businesses. I am also depeen my knowledge on software design and architecture, MCP protocol, and AI agents development
