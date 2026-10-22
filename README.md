@@ -52,7 +52,7 @@ Risk indicators are intended to identify records that may require additional rev
 - This API allows authenticated users to retrieve classes data from an educational institution
 - Technologies & practices: JavaScript (ES6+), Node.js, Express.js, MongoDB, Mongoose, MVC Architecture, Security Best Practices, Render.
 - Link to repository https://github.com/ezgdev/cse341-learning-academy.git
-- 
+  
 ### Cars concessionary management system
 - This website allows owners to manage the cars database. They can create new items, modify, update or delete them. Only authenticated and authorized persons can manage the database.
 - Technologies & practices: JavaScript (ES6+), HTML5, CSS3, Node.js, Express.js, PostgreSQL, MVC Architecture, Web Accessibility (WCAG), Render.
@@ -65,13 +65,13 @@ Risk indicators are intended to identify records that may require additional rev
 - Technologies & practices: JavaScript (ES6+),HTML5, CSS3, Vite, Netlify, Agile, Web Accessibility (WCAG)
 - Deployment link (Netlify): https://sleep-outside5.netlify.app/
 - Link to repository: https://github.com/jcbhmphrs733/Sleep-Outside.git
-- 
+  
 ### "NUTRIPLAN" Health and Food tracker app
 - A web application that helps people to improve their health by tracking macro nutrients intake in their foods.
 - Technologies & practices: JavaScript (ES6+),HTML5, CSS3, Vite, Netlify, Web Accessibility (WCAG)
 - Deployment link (Netlify): https://wd3330nutriplan.netlify.app/ 
 - Link to repository https://github.com/CarlosMedinaSullca/WDD330FinalProject.git
-- 
+  
 ### Bolivia Chamber of commerce 
 - Designed and built a website that allows businesses in Bolivia to find partners and improve visibility to visitors
 - Technologies & practices:JavaScript (ES6+),HTML5, CSS3, Web Accessibility (WCAG))
