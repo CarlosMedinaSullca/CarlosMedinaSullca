@@ -5,10 +5,10 @@ Hello World!
 I'm Carlos Medina, a full-stack web developer with an associate and bachelor degree in software development granted by Brigham Young University. I am interested in full-stack web development, cybersecurity, blockchain and machine learning. Welcome to my GitHub profile!
 
 ## About me
-- I'm currently learning adittional full-stack web technologies like .NET, ASP.NET, and .NET Blazor.
-- I'm working on e-commerce websites development
-- Since early 2024 I have learned front-end, back end, and full-stack technologies, and worked in multiple projects. Check technologies and tools section.
-- My goals is to be hired for a remote position as a full-stack web develope.
+- I'm currently developing the front-end and backend for local businesses. I am also depeen my knowledge on software design and architecture, MCP protocol, and AI agents development
+- I'm working on websites development
+- Since 2024 I have been learning front-end, backend, and full-stack technologies. I worked in multiple projects. Check technologies and tools section.
+- My goals is to be hired for a remote position as a full-stack web developer.
 - How to reach me: carlos.medina.sullca@gmail.com, www.linkedin.com/in/carlos-medina-3a3265303/, +59172968308
 
 ## Technologies and Tools
